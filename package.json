@@ -1,8 +1,8 @@
 {
-  "name": "@blackblocks/horswap-002",
+  "name": "@mekonglabs/horswap-005",
   "version": "1.0.0",
   "description": "Horswap Interface",
-  "repository": "https://github.com/BlackBlocks-io/Horswap",
+  "repository": "https://github.com/Jeremy-MekongLabs/Horswap",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "ajv": "node scripts/compile-ajv-validators.js",
